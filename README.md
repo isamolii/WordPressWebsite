@@ -24,7 +24,7 @@ In this Lab I deployed and hosted a highly available WordPress application on AW
 
 <p align="center">
 Launch the utility: <br/>
-<img />
+<img />![2 _Host_a_WordPress_Website_on_AWS](https://github.com/isamolii/WordPressWebsite/assets/110149904/78a88b7b-f01b-459a-9415-77236d341c76)
 
 
 <!--
