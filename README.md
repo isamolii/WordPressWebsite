@@ -24,7 +24,7 @@ In this Lab I deployed and hosted a highly available WordPress application on AW
 
 <p align="center">
 Launch the utility: <br/>
- ![Screenshot 2024-05-19 224325](https://github.com/isamolii/WordPressWebsite/assets/110149904/080edfba-548f-43ab-8193-7a91e7f4eee9)
+![Screenshot 2024-05-19 224325](https://github.com/isamolii/WordPressWebsite/assets/110149904/94134bca-4b31-43d0-9197-e3e6d43fc8fa)
 
 
 
