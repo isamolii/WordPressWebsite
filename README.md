@@ -23,7 +23,7 @@ In this Lab I deployed and hosted a highly available WordPress application on AW
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+WordPress Website Lab : <br/>
 ![Screenshot 2024-05-19 224325](https://github.com/isamolii/WordPressWebsite/assets/110149904/94134bca-4b31-43d0-9197-e3e6d43fc8fa)
 
 
